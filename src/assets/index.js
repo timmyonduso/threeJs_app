@@ -21,6 +21,12 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
+import java from "./tech/java.svg"
+import kotlin from "./tech/kotlin.svg"
+import laravel from "./tech/laravel.svg"
+import oracle from "./tech/oracle.svg"
+import php from "./tech/php.svg"
+import next from "./tech/nextjs.svg"
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
@@ -30,6 +36,11 @@ import tesla from "./company/tesla.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import genga from "./genga.png"
+import maandeeq from "./maandeeq.png";
+
+import daniel from "./daniel.jpg";
+import rowda from "./rowda.jpg";
 
 export {
   logo_color,
@@ -61,4 +72,14 @@ export {
   carrent,
   jobit,
   tripguide,
+  java,
+  kotlin,
+  laravel,
+  oracle,
+  php,
+  next,
+  genga,
+  daniel,
+  rowda,
+  maandeeq,
 };

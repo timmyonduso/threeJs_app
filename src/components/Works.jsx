@@ -74,7 +74,7 @@ const Works = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-3 text-secondary text-[17px] max-w-3xl leading-[30px]"
         >
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga nisi ipsum laborum amet nihil iste ab, deleniti eius itaque dolor culpa nostrum rerum voluptate commodi enim soluta assumenda facilis repudiandae.
+          Below are some of the projects I have personally undertaken and completed. You can also find the link to their github repositories at the top left.
         </motion.p>
       </div>
 

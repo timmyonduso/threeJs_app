@@ -44,7 +44,7 @@ const About = () => {
     <motion.p
     variants={fadeIn("", "", 0.1, 1)}
     className="mt-4 text-secondary text-[17px max-w-3xl leading-[30px]">
-      Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatem laborum reprehenderit sapiente? Iste eaque neque sit incidunt culpa repellat exercitationem nobis tempora enim accusantium, numquam assumenda voluptates corrupti, autem necessitatibus.
+      I am a certified full stack web developer and database administrator with vast experience in creating mobile applications and extracting, cleaning, analyzing, interpreting and visualizing information to derive meaningful insights.  
     </motion.p>
 
     <div className="mt-20 flex flex-wrap gap-10">
